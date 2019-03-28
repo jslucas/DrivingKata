@@ -1,0 +1,11 @@
+Trip Dan 07:15 07:45 17.3
+Trip Dan 06:12 06:32 21.8
+Driver Alex
+Driver Bob
+Trip Alex 12:01 13:16 42.0
+Driver Dan
+Driver LargeMarge
+Trip LargeMarge 12:30 13:00 90
+Trip LargeMarge 13:01 13:15 9000
+Driver Cyrus
+Trip Cyrus 00:00 23:59 1
